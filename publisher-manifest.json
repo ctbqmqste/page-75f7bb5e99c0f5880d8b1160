@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "f1b726bb62812763a20f2ce4",
+  "owner": "ctbqmqste",
+  "repo": "page-75f7bb5e99c0f5880d8b1160",
+  "title": "Afterwind",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "75f7bb5e99c0f5880d8b1160",
+      "a": "Afterwind",
+      "b": "",
+      "entity": "Afterwind",
+      "brand": "Afterwind",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8a33cca1fec9d13514363c68783ca6888a64b61bac45ed4123151b272f0052c4",
+      "content": {
+        "keyword1": "Afterwind",
+        "keyword2": "",
+        "primary_entity": "Afterwind",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Afterwind 用清单把纸本订阅说清楚：规格、价格档、取件步骤与常见问题，不堆形容词。",
+          "AI_DESCRIPTION": "Afterwind 用清单把纸本订阅说清楚：规格、价格档、取件步骤与常见问题，不堆形容词。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0;background:#fff;color:#111;font-family:Georgia,\"Songti SC\",\"Noto Serif SC\",serif}\na{color:#ff4d00;text-decoration:none}\na:hover{text-decoration:underline}\nmain{display:block}\n.hero{min-height:100vh;padding:8vw 6vw 6vw;background:#fff;display:flex;flex-direction:column;justify-content:flex-end;border-bottom:8px solid #ff4d00}\n.hero h1{font-size:clamp(4.2rem,22vw,14rem);line-height:.82;letter-spacing:-.06em;margin:0;font-weight:700;color:#111;text-transform:uppercase}\n.hero p{max-width:34rem;font-size:1.05rem;line-height:1.6;margin:1.5rem 0 0}\n.jump{display:flex;flex-wrap:wrap;gap:.6rem 1.2rem;margin-top:2rem;font-size:.9rem}\n.wrap{max-width:1100px;margin:0 auto;padding:3.5rem 1.2rem}\nh2{font-size:1.7rem;margin:0 0 1rem;letter-spacing:.02em}\nh3{font-size:1.05rem;margin:0 0 .4rem}\n.ticket{border:2px dashed #ff4d00;padding:1.1rem 1.2rem;margin:0 0 1rem;background:#fff}\n.ticket p,.ticket li{font-size:.98rem;line-height:1.65}\nul.list{margin:.3rem 0 0;padding-left:1.2rem}\ntable{width:100%;border-collapse:collapse;font-size:.92rem}\nth,td{border:2px dashed #ff4d00;padding:.75rem .6rem;text-align:left;vertical-align:top}\nth{background:#fff7f2;color:#111}\n.mark{display:inline-block;border:2px dashed #ff4d00;padding:.05rem .4rem;font-size:.75rem;margin-left:.3rem}\n.faqgrid{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem}\n.faqgrid article{border:2px dashed #ff4d00;padding:1rem}\n.muted{color:#333}\nfooter{padding:2rem 1.2rem 4rem;border-top:8px solid #ff4d00;font-size:.85rem}\n@media (max-width:720px){\n.faqgrid{grid-template-columns:1fr}\ntable{display:block;overflow-x:auto}\n.hero h1{font-size:22vw}\n}\n</style><main>\n<section class=\"hero\">\n<p class=\"muted\">纸本目录 · 清单口吻 · 无顶部菜单</p>\n<h1>Afterwind</h1>\n<p>风停之后留下的是纸边与油墨。本页只列可核对的条目：读什么、怎么订、怎么取、问什么。跳转用下面几条链接即可。</p>\n<div class=\"jump\">\n<a href=\"#what\"># 是什么</a>\n<a href=\"#use\"># 使用说明</a>\n<a href=\"#plans\"># 订阅对照</a>\n<a href=\"#clients\"># 取件方式</a>\n<a href=\"#faq\"># 常见问题</a>\n</div>\n</section>\n\n<section class=\"wrap\" id=\"what\">\n<h2>Afterwind 条目清单</h2>\n<div class=\"ticket\">\n<h3>1. 名称</h3>\n<p>Afterwind。公开资料仅有此名称，本页不附加未提供的机构头衔、节点、评测或退款承诺。</p>\n</div>\n<div class=\"ticket\">\n<h3>2. 内容方向</h3>\n<p>以风后余温为题的纸本：短笺、对折页、季度合订。正文写物与工序，不写口号。</p>\n</div>\n<div class=\"ticket\">\n<h3>3. 阅读顺序</h3>\n<ul class=\"list\">\n<li>先看订阅对照表，圈定份数与纸种。</li>\n<li>再按使用说明完成下单备忘。</li>\n<li>最后用 FAQ 核对尺寸、周期与联系方式。</li>\n</ul>\n</div>\n</section>\n\n<section class=\"wrap\" id=\"use\">\n<h2>使用说明</h2>\n<div class=\"ticket\">\n<ol>\n<li>准备收件名、地址、可联系时段，写在纸上。</li>\n<li>对照下表选择一档：基础笺、旗舰合订、工作坊套装。</li>\n<li>记下档位名称与月价或年价，便于对账。</li>\n<li>取件方式见后文：自取说明或邮寄备忘；无已确认下载地址，客户端一栏仅列阅读介质。</li>\n<li>有疑问先翻双栏问答，再使用页内链接回到对应区块。</li>\n</ol>\n</div>\n</section>\n\n<section class=\"wrap\" id=\"plans\">\n<h2>订阅对照表</h2>\n<p class=\"muted\">价格为目录示意，便于横向比较；不附交易链接。</p>\n<table>\n<thead>\n<tr>\n<th>项目</th>\n<th>基础笺</th>\n<th>旗舰合订 <span class=\"mark\">目录推荐</span></th>\n<th>工作坊套装</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>月价</td>\n<td>¥15/月</td>\n<td>¥35/月</td>\n<td>¥85/月</td>\n</tr>\n<tr>\n<td>年价备忘</td>\n<td>按年记 ¥150/年</td>\n<td>按年记 ¥350/年</td>\n<td>按年记 ¥850/年</td>\n</tr>\n<tr>\n<td>纸量</td>\n<td>每月 12 张单页笺</td>\n<td>每月 1 册 48 页合订</td>\n<td>每月 3 册加空白练习本</td>\n</tr>\n<tr>\n<td>纸种</td>\n<td>本白 100g</td>\n<td>本白 120g + 橙色腰封</td>\n<td>本白与浅橙夹页</td>\n</tr>\n<tr>\n<td>附带</td>\n<td>一枚封口贴纸</td>\n<td>目录卡与装订说明</td>\n<td>工作坊议程纸与名签</td>\n</tr>\n<tr>\n<td>适合</td>\n<td>单人随手记</td>\n<td>完整阅读与收藏</td>\n<td>多人共读或课堂分发</td>\n</tr>\n</tbody>\n</table>\n</section>\n\n<section class=\"wrap\" id=\"clients\">\n<h2>取件与阅读介质</h2>\n<div class=\"ticket\">\n<h3>纸本</h3>\n<p>默认纸质寄送。未提供可核验的下载地址，电子版链接留空，不伪造文件入口。</p>\n<p>说明：<a href=\"#\">#</a></p>\n</div>\n<div class=\"ticket\">\n<h3>现场自取</h3>\n<p>若后续公布地点，以当面核对订单名为准。现无可靠地址，占位为井号。</p>\n<p>说明：<a href=\"#\">#</a></p>\n</div>\n</section>\n\n<section class=\"wrap\" id=\"faq\">\n<h2>常见问题</h2>\n<div class=\"faqgrid\">\n<article>\n<h3>Afterwind 是公司还是笔名？</h3>\n<p>公开事实未给出主体登记信息。按品牌名理解即可，勿自行添加官方身份。</p>\n</article>\n<article>\n<h3>有没有速度、节点或兼容性承诺？</h3>\n<p>没有。本页不讨论网络性能、设备兼容或日志政策。</p>\n</article>\n<article>\n<h3>价格能否在线支付？</h3>\n<p>对照表只作清单。未提供可靠交易链接，请勿把井号当作付款入口。</p>\n</article>\n<article>\n<h3>退换怎么写？</h3>\n<p>事实清单未含退款规则。收到实物后如需协商，以当时书面约定为准，此处不编造条款。</p>\n</article>\n<article>\n<h3>如何回到页顶？</h3>\n<p>使用区块内链接：<a href=\"#what\">是什么</a> · <a href=\"#plans\">订阅对照</a> · <a href=\"#clients\">取件方式</a></p>\n</article>\n<article>\n<h3>合订何时发出？</h3>\n<p>未提供发刊日历。下单备忘里自行记下期望月份，待有书面通知再核对。</p>\n</article>\n</div>\n</section>\n</main>\n<footer>\nAfterwind · 清单式目录页 · 页内跳转：<a href=\"#use\">使用说明</a>\n</footer>",
+          "hash": "7dbb5676c440f762afec4004d7023d7ca2691e2a861facf46aa1a1bf0f093721",
+          "seo": {
+            "title": "Afterwind 风后纸本与订阅说明",
+            "keywords": "Afterwind,风后,纸本,订阅,清单,使用说明",
+            "description": "Afterwind 用清单把纸本订阅说清楚：规格、价格档、取件步骤与常见问题，不堆形容词。"
+          },
+          "provider": "grok",
+          "model": "grok-4-6",
+          "design": {
+            "no": "8705",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qdrpo.cn",
+    "host": "p-9b699aecf2.qdrpo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "c0f34fc24ade4030f3633136c3e0edc21332a5fda1b909befbe667739c8ec50c",
+    "sitemap.xml": "8347780ca2a551f2a97140b1e5119053358e82469b7dd06f0180c09ed387300e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d3e76ec53944307b09e79557d661950e1b437b5108d983f0e71aabf051bb1b13",
+    "robots.txt": "4aa6388c0d27da7b850d2f986a03cbc688633e15c62ea62ba021b612c17149d7",
+    "0cfbb7690c83e0cbc8211f5d0eb6c115.txt": "1992bc42592bc28aafd4726ad3ce7230086f9120e0adf56af9c8884e5a91ea6e"
+  },
+  "revision": "16d78bdfda3ce799f3fa16dd557944dcfcb5ed323d649b4ed752138065370aa2"
+}
